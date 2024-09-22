@@ -42,7 +42,7 @@ This project is an implementation of the classic **Connect 4** game, featuring b
    └── black.png           # Image of the black token used in the game.
 
 📁 resources
-   ├── dog.jpeg            # Image resource for the game (example, not directly used).
+   ├── picture.jpeg            # Image resource for the game (example, not directly used).
 
 ```
 
